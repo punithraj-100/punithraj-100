@@ -36,6 +36,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="46"/>
 </p>
 
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=punithraj-100&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak graph" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=punithraj-100&show_icons=true&theme=dark&border_radius=5" height="200" alt="GitHub stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithraj-100&layout=compact&theme=dark&border_radius=5" height="170" alt="Top languages" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punithraj-100&theme=dark" alt="Contribution graph" />
+</div>
+
 
 
 
