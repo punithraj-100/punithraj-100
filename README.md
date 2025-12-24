@@ -51,12 +51,7 @@
 
 
 
-### 🏆 Hackathon
 
-<p align="center">
-  🧠 <b>EduSphere</b> — Vikasya Hackathon (RV University)<br/>
-  AI-powered integrated educational platform
-</p>
 
 
 ---
